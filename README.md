@@ -4,8 +4,8 @@
 📫 How to reach me : 18791509315@163.com  
 😄 Pronouns: chinese  
 ⚡ hobby : read,running,programming  
-![Github Stats](https://github-readme-stats.vercel.app/api?username=yeapCHEN&show_icons=true&theme=dark&count_private=true)  
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yeapCHEN&theme=dark&layout=compact)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=goodlySusan&show_icons=true&theme=dark&count_private=true)  
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=goodlySusan&theme=dark&layout=compact)
 <!--
 **goodlySusan/goodlySusan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
